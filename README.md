@@ -12,6 +12,6 @@
 5. **Free Lifetime Update** – Enjoy continuous improvements at no extra cost.
 
 # Contact:
-If you want to purchase this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21).
+If you want to purchase this tool, contact me via Telegram [@thepythoncode97](https://t.me/thepythoncode97).
 
 Thanks!
