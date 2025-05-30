@@ -4,7 +4,7 @@
 ![image](https://raw.githubusercontent.com/alexrony21/T-Mobile-Valid-Number-Checker/refs/heads/main/Screenshot_314.png)
 ![image](https://raw.githubusercontent.com/alexrony21/T-Mobile-Valid-Number-Checker/refs/heads/main/Screenshot_316.png)
 
-# Features  
+# Features 
 1. **Fast Checking** – Quickly verifies numbers without delays.
 2. **Accurate Result** – Ensures high precision in validation.
 3. **20k Number Validate per 1 Minute** – Processes up to 20,000 numbers in just one minute.
