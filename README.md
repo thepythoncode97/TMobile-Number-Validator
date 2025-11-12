@@ -1,8 +1,8 @@
 # TMobile-Number-Validator
 
-![image](https://raw.githubusercontent.com/alexrony21/T-Mobile-Valid-Number-Checker/refs/heads/main/Screenshot_315.png)
-![image](https://raw.githubusercontent.com/alexrony21/T-Mobile-Valid-Number-Checker/refs/heads/main/Screenshot_314.png)
-![image](https://raw.githubusercontent.com/alexrony21/T-Mobile-Valid-Number-Checker/refs/heads/main/Screenshot_316.png)
+![image](https://raw.githubusercontent.com/thepythoncode97/TMobile-Number-Validator/refs/heads/main/main.png)
+![image](https://raw.githubusercontent.com/thepythoncode97/TMobile-Number-Validator/refs/heads/main/check1.png)
+![image](https://raw.githubusercontent.com/thepythoncode97/TMobile-Number-Validator/refs/heads/main/check2.png)
 
 # Features 
 1. **Fast Checking** – Quickly verifies numbers without delays.
