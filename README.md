@@ -10,6 +10,7 @@
 3. **20k Number Validate per 1 Minute** – Processes up to 20,000 numbers in just one minute.
 4. **Unlimited Checking** – No restrictions on the number of validations.
 5. **Free Lifetime Update** – Enjoy continuous improvements at no extra cost.
+6. **No Third-Party API Key Required** : Everything runs on our own infrastructure—no external services, no extra setup, no hidden dependencies.
 
 # Contact:
 If you want to purchase this tool, contact me via Telegram [@thepythoncode97](https://t.me/thepythoncode97).
